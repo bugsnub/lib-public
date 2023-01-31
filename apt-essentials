@@ -6,6 +6,8 @@ git
 iptables
 iputils-ping
 jq
+locales
+locales-all
 locate
 lsb-release
 lsof
@@ -19,6 +21,7 @@ openssh-client
 openssh-server
 python3-pip
 realmd
+sshpass
 systemd
 telnet
 tree
